@@ -11,5 +11,5 @@ Estou relembrando algumas coisas que aprendi sobre Git/GitHub, no curso da DIO.
 <p align="center">
 <img 
     src="Linux do Zero/Capturar.PNG"
-    width="300"
+    width="500"
 />
