@@ -8,4 +8,8 @@ Estou relembrando algumas coisas que aprendi sobre Git/GitHub, no curso da DIO.
 
 [Linux do Zero](https://web.dio.me/track/linux-do-zero)
 
-image(Linux do Zero/Capturar.PNG)
+<p align="center">
+<img 
+    src="Linux do Zero/Capturar.PNG"
+    width="300"
+/>
