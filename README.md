@@ -11,5 +11,14 @@ Estou relembrando algumas coisas que aprendi sobre Git/GitHub, no curso da DIO.
 <p align="center">
 <img 
     src="Linux do Zero/Capturar.PNG"
-    width="500"
+    width="1000"
 />
+
+Com o tempo e muita dedicação, estou aprendendo cada vez mais e espero me aperfeiçoar a cada dia.
+
+Agradeço profundamente aos professores e à DIO pelos excelentes cursos, 
+que têm nos proporcionado uma oportunidade incrível a um preço muito acessível.
+
+Muito obrigada a todos!
+
+Crislei Keli
